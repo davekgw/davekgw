@@ -18,7 +18,7 @@
 * PEMBUAT/DEVELOPER WA BOT SMILEY & SILENCE
  
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285848453523) 
-[![DEVELOPER 2](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
+[![DEVELOPER 2](https://img.shields.io/badge/Developer%20BOT%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y) 
 
 
