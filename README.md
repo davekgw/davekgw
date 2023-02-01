@@ -36,27 +36,6 @@
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-## ```Game ML```
-
-* Name : Smileyヅ
-* High Rank : Mythic III
-* Hero Fav : Karina 1100+/65%
-* ID : Tanya langsung aja:)
-* WA : Klik gambar wa di atas
-
-<p align="center">
-  <img src="https://c.tenor.com/UZQmWvS7m3IAAAAM/layla-mlbb.gif" />
-</p>
-
-------
-
-## ```Favorite lagu```
-
-<p align="center">
-  <a href="Anne Marie https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
 
 ## ```Status```
 
