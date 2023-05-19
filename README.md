@@ -1,6 +1,6 @@
 <h1 align="center">Ngapain Disini?!<img src="https://i.pinimg.com/originals/c6/1e/e7/c61ee7f4221311a84dfcd466d6d14183.gif" width="50px" alt=""><br></h1>
 <p align="center">
-  <img src="https://i.postimg.cc/wM03CSP6/07bc58660f1011cecfdc30809a4ddb15.gif" width="70%" />
+  <img src="https://i.postimg.cc/HxS74Fx1/IMG-20230210-WA0058.jpg" width="70%" />
 </p> 
 
 <p align="center">
