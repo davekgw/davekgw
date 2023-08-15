@@ -13,7 +13,7 @@
 
 </p>
 
-## ```Tentang Whatsapp``` <a href="https://wa.me/6289631008798"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Tentang Whatsapp``` <a href="https://wa.me/6289631008798"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/davekgw/picture/blob/main/Whatsapp.svg" />
 
 * PEMBUAT/DEVELOPER WA BOT SMILEY & SILENCE
  
