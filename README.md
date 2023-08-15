@@ -33,7 +33,7 @@
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:davekoagow4@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="[https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg](https://github.com/davekgw/picture/blob/main/Gmail.svg)" />
   </a> &nbsp;&nbsp;
 
 
