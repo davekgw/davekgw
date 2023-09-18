@@ -9,13 +9,15 @@
 * Nama saya Dave biasa dibilang Dev
 * Saya beragama Kristen Advent, 
 * Saya tinggal di Kanaan, Kecamatan Airmadidi, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara.
-* Saia lagi bekerja tahun depan masuk kuliah di Universitas Klabat
+* Saia sedang berkuliah di Universitas Klabat
+* Fakultas Ilmu Komputer
+* Prodi: Informatika
 
 </p>
 
 ## ```Tentang Whatsapp``` <a href="https://wa.me/6289631008798"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/davekgw/picture/blob/main/Whatsapp.svg" />
 
-* PEMBUAT/DEVELOPER WA BOT SMILEY & SILENCE
+* DEVELOPER WA BOT SMILEY & SILENCE
  
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285848453523) 
 [![DEVELOPER 2](https://img.shields.io/badge/Developer%20BOT%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
