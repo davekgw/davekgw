@@ -9,7 +9,7 @@
 * Nama saya Dave biasa dibilang Dev
 * Saya beragama Kristen Advent, 
 * Saya tinggal di Kanaan, Kecamatan Airmadidi, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara.
-* Saia sedang berkuliah di Universitas Klabat
+* Saya sedang berkuliah di Universitas Klabat
 * Fakultas Ilmu Komputer
 * Prodi: Informatika
 
@@ -21,8 +21,6 @@
  
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285848453523) 
 [![DEVELOPER 2](https://img.shields.io/badge/Developer%20BOT%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y) 
-
 
 ## ```Sosmed``` <img src="https://github.com/davekgw/picture/blob/main/Handshake.gif" height="32px">
   <a href="https://wa.me/6289631008798">
