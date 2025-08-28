@@ -42,6 +42,6 @@
 <p align="center"><a href="https://github.com/davekgw"><img src="https://github-readme-stats.vercel.app/api?username=davekgw&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/davekgw"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davekgw&theme=radical&layout=compact"></a></p> 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=davekgw)
+![Github Trophy](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)
 
 </details>
